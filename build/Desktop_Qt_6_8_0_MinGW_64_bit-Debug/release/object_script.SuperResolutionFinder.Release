@@ -1,0 +1,11 @@
+release/CustomMessageBox.o
+release/SuperResolutionProcessor.o
+release/TileSettingsDialog.o
+release/circularloader.o
+release/main.o
+release/mainwindow.o
+release/moc_CustomMessageBox.o
+release/moc_SuperResolutionProcessor.o
+release/moc_TileSettingsDialog.o
+release/moc_circularloader.o
+release/moc_mainwindow.o
