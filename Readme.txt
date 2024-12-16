@@ -1,5 +1,8 @@
 Instruction For Using The Application
 
+# You want to install the Qt Version 6.7.2 to run this application
+# Install the python 3.12.0 version 
+
 # Selecting an Input Image
     - Click the "Choose Image" button.
     - In the file dialog that appears, navigate to the folder containing the image you want to enhance.
